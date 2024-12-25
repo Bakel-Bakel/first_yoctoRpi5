@@ -1,2 +1,2 @@
-# first_yoctoRpi5
-Source code for my embedded linux project
+# rpi5_yocto_udemy
+Contains source code for the Udemy lecture "Applied Yocto Project using Raspberry Pi 5"
